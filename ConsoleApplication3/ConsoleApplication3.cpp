@@ -12,6 +12,7 @@ int main()
 	cout << "Група 1" << endl;
 	cout << "Група 2" << endl;
 	cout << "Група 3" << endl;
+	cout << "Выпуск" << endl;
 
 }
 

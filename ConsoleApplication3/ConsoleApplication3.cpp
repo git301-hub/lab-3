@@ -9,6 +9,7 @@ int main()
 	std::cout << "Кирилюк М.А" << endl;
 	cout << "г.Винница" << endl;
 	cout << "Ясли" << endl;
+	cout << "Група 1" << endl;
 
 }
 

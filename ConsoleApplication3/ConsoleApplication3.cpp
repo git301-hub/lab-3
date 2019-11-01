@@ -8,6 +8,15 @@ int main()
 	locale(LC_ALL, "Russian");
 	std::cout << "Кирилюк М.А" << endl;
 	cout << "г.Винница" << endl;
+	cout << "Ясли" << endl;
+	cout << "Група 1" << endl;
+	cout << "Група 2" << endl;
+	cout << "Група 3" << endl;
+	cout << "Дошкольная група" << endl;
+	cout << "1 Класс" << endl;
+	cout << "2 Класс" << endl;
+	cout << "3 Класс" << endl;
+	cout << "4 Класс" << endl;
 	cout << "Школа №33" << endl;
 	cout << "Коледж НУЭТ" << endl;
 	cout << "Университет ДонНУ" << endl;

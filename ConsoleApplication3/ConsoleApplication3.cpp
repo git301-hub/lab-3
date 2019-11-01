@@ -43,6 +43,7 @@ int main()
 	cout << "Перевод в групу 3" << endl;
 	cout << "Перевод в cтаршую групу " << endl;
 
+	cout << "Выпуск" << endl;
 
 	cout << "Старший солдат" << endl;
 	cout << "Капрал" << endl;

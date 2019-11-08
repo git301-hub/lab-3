@@ -53,6 +53,7 @@ int main()
 	cout << "Головний сержант" << endl;
 	cout << "Штаб сержант" << endl;
 	cout << "Удадид 2 последних комит" << endl;
+	cout << "Комит Collaborators" << endl;
 
 }
 
